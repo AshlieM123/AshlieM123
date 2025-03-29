@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hello • Hello 👋
 
+*Thanks for visiting!*
+
+A little bit about me:
+- I'm a cat person with a big heart and caring personality
+- I'm new at all of this and getting more comfortable each day
+- I have a prior Bachelor Degree in Graphic Design, but I'm here at ASU to advance/refresh that degree
+- I can't wait to get to the "New Chapter" in my work-life
 <!--
 **AshlieM123/AshlieM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
