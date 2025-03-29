@@ -7,6 +7,9 @@ A little bit about me:
 - I'm new at all of this and getting more comfortable each day
 - I have a prior Bachelor Degree in Graphic Design, but I'm here at ASU to advance/refresh that degree
 - I can't wait to get to the "New Chapter" in my work-life
+
+![alt text](image![8312BE05-FEF0-466E-A810-25A1176039D9_1_105_c](https://github.com/user-attachments/assets/be23b387-a0d0-47c3-a44c-f5ef9d0f1c75)
+.jpg)
 <!--
 **AshlieM123/AshlieM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
